@@ -17,6 +17,9 @@
 - Raster Scan Display vs Random Scan Display(LQ)
 	- pix map vs bit map(SQ)
 	- horizontal and vertical retrace(SQ)
+- Color CRT Monitors
+  	- Beam Penetration
+  	- Shadow Masking
 - DDA
 - Bresenham's Midpoint Circle algorithm 
 - 2x2 transformations
