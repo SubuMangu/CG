@@ -21,6 +21,7 @@
   	- Beam Penetration
   	- Shadow Masking
 - DDA
+- Bresenham's Line Drawing Algorithm
 - Bresenham's Midpoint Circle algorithm 
 - 2x2 transformations
 - Matrix representation at homogeneous coordinates
