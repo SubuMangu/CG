@@ -1,0 +1,42 @@
+- B Spline Curves
+    - Why it is better than Bezier Curves?
+    - Equation and Properties
+    - Knot Vector and it's types
+- Fractals
+    - Characteristics
+    - Types of Fractals
+    - Initiator and Generator
+    - Dimension
+- Projection
+    - View Plane and Center of Projection
+    - Types(LQ)
+- Visble Surface Detection
+    - Types of approaches
+    - Sorting and Coherence
+    - Algorithms
+        - Back Face Dection
+        - Depth/Z Buffer
+        - A Buffer
+        - Scan Line
+        - Depth Sorting/Painter's Algorithm
+- Illumination Models
+    - Surface Rendering Algorithm
+    - Types of Reflection
+        - Lambert's Law
+        - Intensity Calculation Problem
+    - Specular Reflection
+- Polygon Rendering Methods
+    - Constant Intensity Shading
+    - Gouraud Shading
+    - Phong Shading
+- Computer Animation and Morphing
+    - Animation sequence
+    - Raster Animation(optional)
+    - Types of Animation
+    - Keyframe Animation vs Procedural Animation
+    - Methods of Controlling Animation
+    - Morphing
+        - Types of Techniques
+        - Techniques
+
+    

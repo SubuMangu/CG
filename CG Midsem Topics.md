@@ -1,0 +1,54 @@
+- Application area of Computer graphics(LQ)
+	- CAD(SQ)
+	- Presentation Graphics 
+	- Computer Art(SQ)
+	- Entertainment 
+	- education and training
+	- Visualization(SQ)
+		- Types of Visualization 
+	- Image processing(SQ)
+	- Graphic User Interface(SQ)
+- Basic Operations of CRT with Diagram(LQ)
+- Refresh CRT(SQ)
+- Characteristics of CRT 
+	- Persistence(SQ)
+	- Aspect Ratio(SQ)
+	- Resolution(SQ)
+- Raster Scan Display vs Random Scan Display(LQ)
+	- pix map vs bit map(SQ)
+	- horizontal and vertical retrace(SQ)
+- DDA
+- Bresenham's Midpoint Circle algorithm 
+- 2x2 transformations
+- Matrix representation at homogeneous coordinates
+- Composite Transformation 
+- General Pivot Point rotation
+- General Fixed point scaling
+- Reflection 
+- Shearing Transformation: with or without reference
+- 3D Transformation
+- window vs viewport
+- viewing transformation 
+- Clipping and it's types
+- Point clipping 
+- Cohen Sutherland line clipping algorithm 
+	- Region code
+- Sutherland hudgeman polygon clipping 
+- inside outside test
+- polygon filling 
+	- seed filling
+		- boundary fill algorithm 
+		- flood fill algorithm
+	- scanline filling 
+- Halftoning, Thresholdling , Dithering 
+- spline representation 
+	- control points
+	- types of splines
+	- convex hull
+	- types of parametric and geometric continuity 
+- Bezier Curves
+	- definition 
+	- mathematical representation 
+	- properties of bezier curves
+	- Types of bezier curves
+	- Numericals
